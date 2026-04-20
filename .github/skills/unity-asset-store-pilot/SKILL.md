@@ -18,10 +18,10 @@ Use this skill when a user needs help finding Unity Asset Store assets, comparin
 ## Workflow
 
 1. Clarify user requirements (Unity version, platform, budget, visual style, technical constraints).
-2. Discover candidate assets from the Unity Asset Store and collect source links.
+2. Discover candidate assets using web search (or user-provided links) and collect the official Unity Asset Store page URLs.
 3. Compare candidates with concise pros/cons and compatibility risks.
 4. Recommend a primary option and at least one fallback.
-5. If user asks to buy, request explicit confirmation that includes asset name and expected price before proceeding.
+5. If user asks to buy, request explicit confirmation that includes asset name and expected price before providing purchase instructions or a checkout-ready shortlist.
 
 ## Response format
 
